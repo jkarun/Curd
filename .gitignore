@@ -4,3 +4,8 @@ target/
 .settings/
 .classpath
 .project
+# IntelliJ project files 
+*.iml
+*.iws
+*.ipr
+.idea/
